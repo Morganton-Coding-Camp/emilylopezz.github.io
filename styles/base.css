@@ -89,7 +89,9 @@ iframe {
  color: white 
  border: 10px solid #ffffe0;
  front-size: 3.5rem;
-}
+ max-width: 250px;
+{
+
 .profile-img {
  max-height: 50vh; 
  width: auto; 
