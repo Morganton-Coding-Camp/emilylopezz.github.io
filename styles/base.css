@@ -76,6 +76,7 @@ iframe {
  background-image: url('1780506.jpg');
  background position: center;
  background-repeat: no repeat; 
+ object-fit: cover;
 }
 
 .profile-img {
