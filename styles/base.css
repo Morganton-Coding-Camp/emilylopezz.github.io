@@ -71,11 +71,11 @@ iframe {
 }
 
 .banner {
- mini height: 25vh;
+ min-height: 25vh;
  padding: 5rem 1rem;
  background-image: url('../743b7ec9815d6dbce568a49b6750f246.jpg');
  background position: center;
- background-repeat: no repeat; 
+ background-repeat: no-repeat; 
  object-fit: cover;
 }
 
@@ -83,14 +83,14 @@ iframe {
  display: inline-block;
  margin: auto;
  padding: 3rem; 
- width: auto
+ width: auto;
  text-align: center; 
  background: #e0fff0;
- color: white 
+ color: white; 
  border: 10px solid #ffffe0;
  front-size: 3.5rem;
  max-width: 250px;
-{
+}
 
 .profile-img {
  max-height: 50vh; 
