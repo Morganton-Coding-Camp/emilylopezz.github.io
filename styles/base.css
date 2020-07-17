@@ -14,6 +14,7 @@ h3,
 h4,
 h5,
 h6 {
+  font-family: 'Bangers', cursive;
   font-weight: bold;
   margin-bottom: 1rem;
 }
@@ -22,7 +23,11 @@ h1 {
   font-size: 3rem;
 }
 
-p {
+h2 {
+  font size: 2.5rem;
+}
+  
+p { 
   font-size: 1.2rem;
   margin-bottom: 1rem;
 }
@@ -82,6 +87,7 @@ iframe {
 
 .banner-text {
  display: inline-block;
+ font-family: 'Bangers', cursive;
  margin: auto;
  padding: 3rem; 
  width: auto;
@@ -99,7 +105,7 @@ iframe {
  border-radius: 50%; 
 }
 
-.favorite-my favorite thing to do {
+.favorite- to do {
   background: #efddf7;
   padding: 2rem;
   color: black
@@ -111,7 +117,7 @@ iframe {
   color: black;
 }
 
-.favorite-to spend a saturday {
+.favorite-saturday {
   background: #ffff9d;
   padding: 2rem;
   color: black
@@ -132,7 +138,8 @@ iframe {
   letter spacing: 2px;
   border-radius: .25rem;
   font size: .9rem;
-  text decoration: none;
+  text-decoration: none;
+  display: inline-block;
   margin-top: 2rem;
   border: 1px solid white;
   transition: border .3s ease;
