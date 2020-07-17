@@ -14,7 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Bangers', cursive;
+  font-family: 'Dancing Script', cursive;
   font-weight: bold;
   margin-bottom: 1rem;
 }
@@ -87,7 +87,7 @@ iframe {
 
 .banner-text {
  display: inline-block;
- font-family: 'Bangers', cursive;
+ font-family: 'Dancing Script', cursive;
  margin: auto;
  padding: 3rem; 
  width: auto;
@@ -130,7 +130,7 @@ iframe {
 }
 
 .btn-1: {
-  font family: 'Bangers', cursive;
+  font-family: 'Dancing Script', cursive;
   background:#87a96b;
   color: #fbec5d;
   padding: 1rem;
