@@ -99,24 +99,23 @@ iframe {
  border-radius: 50%; 
 }
 
+.favorite-my favorite thing to do {
+  background: #efddf7;
+  padding: 2rem;
+  color: black
+}
 
+.favorite-candy {
+  background: #ff4d4d;
+  padding: 2rem;
+  color: black;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.favorite-way to spend a saturday {
+  background: #ffff9d;
+  padding: 2rem;
+  color: black
+}
 
 .frooter {
   text align: center;
