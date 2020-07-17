@@ -123,13 +123,13 @@ iframe {
   color: black
 }
 
-.frooter {
+.footer {
   text align: center;
   padding: 2rem;
   font-size: 1.5rem;
 }
 
-.btn-1: {
+.btn-1 {
   font-family: 'Dancing Script', cursive;
   background:#87a96b;
   color: #fbec5d;
@@ -145,7 +145,7 @@ iframe {
   transition: border .3s ease;
 }
 
-.btn-1: {
+.btn-1:hover {
   border: 15px solid #a3c1ad;
 }
 
