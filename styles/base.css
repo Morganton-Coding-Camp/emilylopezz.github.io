@@ -92,9 +92,9 @@ iframe {
  padding: 3rem; 
  width: auto;
  text-align: center; 
- background: #a9a9a9;
- color: #a9a9a9; 
- border: 10px solid #fbceb1;
+ background: #8fbc8f;
+ color: #262626; 
+ border: 10px solid #edc9af;
  font-size: 3.5rem;
  max-width: 250px;
 }
